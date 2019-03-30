@@ -1,0 +1,18 @@
+.tabcontent {
+  display: none;
+}
+
+.products-tabs {
+  height: 100px;
+}
+
+.products-tabs .main-products-tab .tab {
+  height: 50px;
+  box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.29);
+}
+
+.products-tabs .main-products-tab .tab button {
+  border: none;
+  background-color: #f8f8f8;
+  font-size: 15px;
+}
