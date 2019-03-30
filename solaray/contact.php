@@ -1,7 +1,7 @@
 <!doctype html>
 <?php include("header.html")?>
 <body class="page-template contact_page page-template-template-contact page-template-template-contact-php page page-id-41">
-<?php include("head.html")?>`
+<?php include("head.html")?>
     <div class="home-body">
         <div class="custom_container inner-padding">
             <div class="contact-us">
