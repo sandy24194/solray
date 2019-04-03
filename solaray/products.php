@@ -33,7 +33,7 @@
                                     </div >
                                     <div id="metering_info" class="subtabcontent">
                                         <div class="container">
-                                            <h1 class="margin-bottom center-align">Industrial Rooftop Net Metering System</h1>
+                                            <h1 class="margin-bottom center-align">INDUSTRIAL ROOFTOP NET METERING SYSTEM</h1>
                                             <div class="col-xs-12 col-sm-4">
                                                 
                                                 <!-- <p></p> -->
@@ -48,7 +48,7 @@
                                     </div>
                                     <div id="hybrid_info" class="subtabcontent">
                                         <div class="container">
-                                                <h1 class="margin-bottom center-align">Solar-Diesel Generator Hybrid Net Metering systems</h1>
+                                                <h1 class="margin-bottom center-align">SOLAR-DIESEL GENERATOR HYBRID NET METERING SYSTEM</h1>
                                             
                                             <div class="col-sm-4 col-xs-12">
                                                 <!-- <p></p> -->
@@ -61,7 +61,7 @@
                                     </div>
                                     <div id="zero_hybrid_info" class="subtabcontent">
                                         <div class="container">
-                                                <h1 class="margin-bottom center-align">Zero Export Solar PV systems</h1>
+                                                <h1 class="margin-bottom center-align">ZERO EXPORT SOLAR PV SYSTEM</h1>
                                             
                                             <div class="col-sm-4 col-xs-12">
                                                 <!-- <p></p> -->
@@ -74,7 +74,7 @@
                                     </div>
                                 </div>
                                 <div id="concentrated_section" class="tabcontent">
-                                    <h1 class="margin-bottom center-align">Concentrated Solar Thermal</h1> 
+                                    <h1 class="margin-bottom center-align">CONCENTRATED SOLAR THERMAL</h1> 
                                     <div class="concentrated_info">
                                         <div class="container-fuild">
                                             <div class="col-sm-5 col-xs-12" >
@@ -105,7 +105,7 @@
                                     
                                     <div class="evaporators_info">
                                         <div class="container">
-                                            <h1 class="margin-bottom center-align">Smart Evaporators</h1>
+                                            <h1 class="margin-bottom center-align">SMART EVAPORATOR</h1>
                                             <div class="col-sm-4 col-xs-12">
                                                 <!-- <p></p> -->
                                                 <div class="basic_content">
@@ -138,7 +138,7 @@
                                 <div id="telecome_section" class="tabcontent">
                                     
                                     <div class="telecome_info">
-                                        <h1 class="margin-bottom center-align">Telecom Applications</h1>
+                                        <h1 class="margin-bottom center-align">TELECOM APPLICATIONS</h1>
                                         <div class="container">
                                             
                                             <div class="col-sm-4 col-xs-12">
@@ -158,7 +158,7 @@
                                     
                                     <div class="sludge_info">
                                         <div class="container-fuild">
-                                        <h1 class="margin-bottom center-align">Solar Sludge Drying</h1>
+                                        <h1 class="margin-bottom center-align">SOLAR SLUDGE DRYING</h1>
                                             <div class="col-sm-4 col-xs-12">
                                                 
                                                 <!-- <p></p> -->
@@ -175,7 +175,7 @@
                                     
                                     <div class="pump_info">
                                         <div class="container">
-                                        <h1 class="margin-bottom center-align">Solar Pumps</h1>
+                                        <h1 class="margin-bottom center-align">SOLAR PUMPS</h1>
                                             <div class="col-sm-4 col-xs-12">
                                                 
                                                 <!-- <p></p> -->
