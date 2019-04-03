@@ -198,6 +198,7 @@
                                                         <div class="partners_section">
                                                             <div class="white_back">
                                                                 <div class="row bot_mar">
+																<div class="row1">
                                                                     <div class="center col-sm-2">
                                                                                 <div class="img_container">
                                                                                     <img src="assets/1200px-ABB_logo.svg.png" class="img-responsive">
@@ -220,8 +221,8 @@
                                                                                     <img src="assets/adani-solar.jpg" class="img-responsive">
                                                                                 </div>
                                                                             </div>
-                                                                            
-    
+                                                                            </div>
+																			<div class="row2">
                                                                             <div class="center col-sm-2">
                                                                                 <div class="img_container">
                                                                                     <img src="assets/Fronius Logo.png" class="img-responsive">
@@ -235,18 +236,12 @@
                                                                                 </div>
                                                                             </div>
                                                                             
-<!--     
-                                                                            <div class="center col-sm-2">
-                                                                                <div class="img_container">
-                                                                                    <img src="assets/0.png" class="img-responsive">
-                                                                                </div>
-                                                                            </div> -->
 																			<div class="center col-sm-2">
                                                                                 <div class="img_container">
-                                                                                    <img src="assets/Website_Victron_Logo.png" class="img-responsive">
+                                                                                    <img src="assets/Victron_Logo.jpg" class="img-responsive">
                                                                                 </div>
-                                                                            </div>                                                                                                                                       
-																																	   </div>
+                                                                            </div> </div>                                                                                                                                       
+																	</div>
                                                             </div>
                                                         </div>
                                                     </div>
